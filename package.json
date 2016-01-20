@@ -1,0 +1,19 @@
+{
+  "name": "front-end-project-structure",
+  "version": "1.0.0",
+  "description": "Front-end structure for new application",
+  "main": "n/a",
+  "dependencies": {
+    "bourbon": "^4.2.6",
+    "moment": "^2.11.1",
+    "susy": "^2.2.11",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "n/a"
+  },
+  "author": "Laura Vecchio",
+  "license": "ISC"
+}
