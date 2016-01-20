@@ -1,3 +1,6 @@
+# Installed dependencies
+node_modules/
+
 # OSX stuff
 .DS_Store
 ._.DS_Store
